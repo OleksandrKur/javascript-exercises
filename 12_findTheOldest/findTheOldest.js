@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const findTheOldest = function(peopleArray) {
     let oldestPerson;
     let age = 0
@@ -19,6 +20,10 @@ const findTheOldest = function(peopleArray) {
     }
 
     return oldestPerson;
+=======
+const findTheOldest = function() {
+    
+>>>>>>> b67a79abc42119a41f9177174efbf272c07d2f2c
 };
 
 // Do not edit below this line
